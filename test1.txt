@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 22D6-1BC6
+
+ Directory of C:\Users\HESSR\Desktop\GitProjects
+
+02/07/2024  04:54 PM    <DIR>          .
+02/07/2024  04:54 PM    <DIR>          ..
+02/07/2024  04:54 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  599,929,663,488 bytes free
